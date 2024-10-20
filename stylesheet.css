@@ -6,6 +6,9 @@
 
 #page-heading {
     padding: 10px;
-    border: black;
-    color: blueviolet;
+    font-size: 44px;
+}
+
+#link-secion {
+    font-size: 32px;
 }
