@@ -11,12 +11,13 @@
     margin: 20px;   /* Space outside the border */
     border: 3px solid black; /* Adds a visible border */
     text-align: center; /* Optional: centers the text */
-    background-color: lightgrey; /* Optional: makes the border stand out */
+    background-color: lightgrey; /* Optional: makes the border stand out */ 
 }
 
 #store-link {
     color: darkblue;
     text-decoration: none;
+    text-align: center;
     font-weight: bold;
 }
 
@@ -24,3 +25,12 @@
     color: purple;
     text-decoration: underline;
 }
+
+#lego-image {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
