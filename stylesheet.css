@@ -5,9 +5,13 @@
 }
 
 #page-heading {
-    padding: 5px;
-    border: 2px black;
-    font-size: 44px;
+    font-size: 36px; /* Adjust font size as needed */
+    color: darkblue;
+    padding: 10px;  /* Space between text and border */
+    margin: 20px;   /* Space outside the border */
+    border: 3px solid black; /* Adds a visible border */
+    text-align: center; /* Optional: centers the text */
+    background-color: lightgrey; /* Optional: makes the border stand out */
 }
 
 #store-link {
